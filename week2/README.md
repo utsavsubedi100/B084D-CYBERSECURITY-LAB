@@ -3,7 +3,7 @@ FOOTPRINTING & NETWORK SCANNING PHASES
 W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
 
 Pentester Name
-(Cybersecurity Professional)	Emmanuel John
+(Cybersecurity Professional)	Utsav Subedi
 Program/Batch	B084D-Networkwalks
 Date	25 October 2026
 Modules completed	W2-PM1 (Multiple Kali Tools)
