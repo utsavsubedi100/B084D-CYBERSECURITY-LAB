@@ -126,4 +126,4 @@ Cybersecurity Professional B084D
 LinkedIn: https://www.linkedin.com/in/utsav-subedi-b84442447/
 ________________________________________
 📌 Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: https://github.com/utsavsubedi100/B084D-CYBERSECURITY-LAB/tree/main/week2
